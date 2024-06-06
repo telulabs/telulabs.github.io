@@ -1,0 +1,13 @@
+{
+  "about": "We are a cutting-edge research laboratory focusing on innovative solutions in the field of biotechnology.",
+  "projects": [
+    {
+      "title": "Project A",
+      "description": "Description of Project A."
+    },
+    {
+      "title": "Project B",
+      "description": "Description of Project B."
+    }
+  ]
+}
